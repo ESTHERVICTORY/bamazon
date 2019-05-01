@@ -24,6 +24,7 @@
     "module": "^1.2.5",
     "mysql2": "^1.6.5",
     "name": "0.0.2",
+    "prompt-list": "^3.2.0",
     "sequelize": "^5.6.0"
   }
 }
